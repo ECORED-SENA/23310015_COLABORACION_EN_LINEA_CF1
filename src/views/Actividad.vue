@@ -3,39 +3,24 @@
   BannerInterno(icono="fas fa-tasks" titulo="Actividad didáctica")
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
     
-    .row.mb-5.justify-content-center.align-items-center.align-items-lg-stretch
-      .col-6.col-md-4.col-lg-3.mb-4.mb-md-0
-        .tarjeta.tarjeta--azul.h-100.d-flex.align-items-center
-          figure
-            img(src="@/assets/template/emparejamiento.svg", alt="Texto que describa la imagen")
-      .col-12.col-md-8.col-lg-9
-        .titulo-segundo
-          h2 Crucigrama de las características de las TIC
-        p.mb-4 Repasar el contenido de las características propias de las nuevas tecnologías de información y comunicación como herramientas de colaboración digital en línea.
-        .tarjeta.tarjeta--azul.p-3
-          .row.justify-content-left.align-items-center            
-            .col-auto
-              a.boton.boton--b(:href="obtenerLink('/actividades/actividad1/story.html')" target="_blank")
-                span Realizar
-                i.fas.fa-puzzle-piece
 
     .row.mb-5.justify-content-center.align-items-center.align-items-lg-stretch
       .col-6.col-md-4.col-lg-3.mb-4.mb-md-0
-        .tarjeta.tarjeta--azul.h-100.d-flex.align-items-center
+        .tarjeta.h-100.d-flex.align-items-center.p-4
           figure
-            img(src="@/assets/template/completar.svg", alt="Texto que describa la imagen")
+            img(src="@/assets/template/Arrastrar_Soltar.svg", alt="Texto que describa la imagen")
       .col-12.col-md-8.col-lg-9
         .titulo-segundo
-          h2 Quiz herramientas y plataformas colaborativas online
-        p.mb-4 Apropiar conocimientos de las herramientas de comunicación y colaboración de los usuarios digitales para poder tener una identidad digital en procesos inmersivos como lo es el uso de las TIC.
-        .tarjeta.tarjeta--azul.p-3
-          .row.justify-content-left.align-items-center            
+          h2 Características de las TIC 
+        p.mb-4 Identificar las características propias de las nuevas tecnologías de información y comunicación como herramientas de colaboración digital en línea. 
+        .tarjeta.actividad.p-3
+          .row.justify-content-around.align-items-center            
+            .col-sm.mb-3.mb-sm-0
+              p.fw-bold.mb-0 Relacionar términos.
             .col-auto
-              a.boton.boton--b(:href="obtenerLink('/actividades/actividad2/story.html')" target="_blank")
+              a.boton.boton--b(:href="obtenerLink('/actividades/story.html')" target="_blank")
                 span Realizar
                 i.fas.fa-puzzle-piece
-
-
 </template>
 
 <script>

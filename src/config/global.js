@@ -315,7 +315,8 @@ export default {
       ],
     },
     {
-      contenidoInstruccional: [
+      titulo: 'CONTENIDO INSTRUCCIONAL',
+      autores: [
         {
           nombre: 'Rafael Neftalí Lizcano Reyes',
           cargo: 'Asesor metodológico y pedagógico',
@@ -351,33 +352,15 @@ export default {
       titulo: 'DISEÑO Y DESARROLLO DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: 'Francisco José Lizcano Reyes',
-          cargo: 'Responsable del equipo',
-          centro:
-            'Centro Industrial del Diseño y la Manufactura - Regional Santander',
-        },
-        {
-          nombre: 'Leyson Fabian Castaño Perez',
-          cargo: 'Soporte organizacional',
-          centro: 'Centro de Comercio y Servicios - Regional Tolima',
-        },
-        {
           nombre: 'Jorge Armando Villamizar Moreno',
           cargo: 'Diseño web',
           centro:
             'Centro Industrial del Diseño y la Manufactura - Regional Santander',
         },
         {
-          nombre: 'Luis Fabian Robles Méndez',
+          nombre: 'Edgar Mauricio Cortes García',
           cargo: 'Desarrollo front-end',
-          centro:
-            'Centro Industrial del Diseño y la Manufactura - Regional Santander',
-        },
-        {
-          nombre: 'Andrés Mauricio Santaella Ochoa',
-          cargo: 'Soporte front-end',
-          centro:
-            'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+          centro: 'Centro de Servicios de Salud - Regional Antioquia',
         },
         {
           nombre: 'Zuleidy María Ruiz Torres',
@@ -403,32 +386,8 @@ export default {
             'Centro Industrial del Diseño y la Manufactura - Regional Santander',
         },
         {
-          nombre: 'José Jaime Luis Tang Pinzón',
-          cargo: 'Producción audiovisual',
-          centro:
-            'Centro Industrial del Diseño y la Manufactura - Regional Santander',
-        },
-        {
-          nombre: 'Jessica Moreno Realpe',
-          cargo: 'Producción audiovisual',
-          centro:
-            'Centro Industrial del Diseño y la Manufactura - Regional Santander',
-        },
-        {
-          nombre: 'Ludwyng Corzo García',
-          cargo: 'Producción audiovisual',
-          centro:
-            'Centro Industrial del Diseño y la Manufactura - Regional Santander',
-        },
-        {
           nombre: 'Carlos Eduardo Garavito Parada',
           cargo: 'Producción audiovisual',
-          centro:
-            'Centro Industrial del Diseño y la Manufactura - Regional Santander',
-        },
-        {
-          nombre: 'Veimar Celis Melendez',
-          cargo: 'Validación de diseño y contenido',
           centro:
             'Centro Industrial del Diseño y la Manufactura - Regional Santander',
         },
