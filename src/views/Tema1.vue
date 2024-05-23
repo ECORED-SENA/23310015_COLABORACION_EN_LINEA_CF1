@@ -59,7 +59,7 @@
         figure(data-aos="flip-up")
           img.nW(src="@/assets/curso/t1-n8.svg", alt="personaje animado")
     
-    p.mb-5(data-aos="slide-left")  En los móviles se encuentran los smartphones, que hacen parte de la cotidianidad de la mayoría de personas, de forma inmersiva e interactiva.
+    p.mb-5(data-aos="slide-left")  En los móviles se encuentran los #[em smartphones], que hacen parte de la cotidianidad de la mayoría de personas, de forma inmersiva e interactiva.
     .row.justify-content-center
       .col-lg-10(data-aos="fade-left")
         .bloque-texto-a.color-acento-botones.p-3.p-md-5.mb-5.dir-ltr
