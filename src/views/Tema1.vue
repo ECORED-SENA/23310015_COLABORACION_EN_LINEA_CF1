@@ -89,7 +89,7 @@
         figure(data-aos="flip-left")
           img.nW(src="@/assets/curso/t1-ic1.svg", alt="imagen decorativa")
       .col-lg-10
-        p Teniendo en cuenta la afirmación que la tecnología ha incluido nuevas formas de comunicación y ha permeado todos los entornos de los seres humanos y, por ende, la vida social misma, se debe tener en cuenta que la apropiación de las nuevas herramientas de comunicación y colaboración en línea no es un proceso endógeno, solo es una condición de necesidad causada, por ello se deben valorar los factores, ventajas y desventajas que posee para llevarlas a práctica desde lo social. A continuación, conozcamos unos ítems importantes sobre este tema.
+        p Teniendo en cuenta la afirmación de que la tecnología ha incluido nuevas formas de comunicación y ha permeado todos los entornos de los seres humanos y, por ende, la vida social misma, se debe tener en cuenta que la apropiación de las nuevas herramientas de comunicación y colaboración en línea no es un proceso endógeno, solo es una condición de necesidad causada, por ello se deben valorar los factores, ventajas y desventajas que posee para llevarlas a práctica desde lo social. A continuación, conozcamos unos ítems importantes sobre este tema.
     .row.mb-5.justify-content-center
       .col-lg-8
         ImagenInfografica.color-primario.mb-5
@@ -184,7 +184,7 @@
           .row.m-0.align-items-center.justify-content-between
             .col-lg-8
               .bloque-texto-a__texto.p-4.shadow-box
-                p El acceso a los datos se realiza de manera equitativa en todas las esferas sociales (económicas, sociales, políticas, culturales, educativas y científicas), siendo que la información es pública logrando que el binomio espacio-tiempo, no sea un obstáculo, esto hace que la interacción y colaboración entre los individuos de una sociedad pueda hacer construcción colectiva de conocimiento.
+                p El acceso a los datos se realiza de manera equitativa en todas las esferas sociales (económicas, sociales, políticas, culturales, educativas y científicas), siendo que la información es pública, logrando que el binomio espacio-tiempo no sea un obstáculo. Esto hace que la interacción y colaboración entre los individuos de una sociedad pueda hacer construcción colectiva de conocimiento.
             .col-lg-4.mb-4.mb-lg-0
               figure(data-aos="flip-left")
                 img.nW(src="@/assets/curso/t1-i5.svg", alt="imagen decorativa")
@@ -222,7 +222,7 @@
           .text.p-lg-3.p-4
             .row.px-lg-3.mb-lg-2
               p.h3 Transmisivas
-              p.small Apoyan los procesos de comunicación en los seres humanos, llevando un mensaje al receptor, dependiendo de sus gustos y aficiones, cada vez las bibliotecas virtuales toman más fuerza, los pódcast, los videojuegos, la TV digital.
+              p.small Apoyan los procesos de comunicación en los seres humanos, llevando un mensaje al receptor, dependiendo de sus gustos y aficiones. Cada vez las bibliotecas virtuales toman más fuerza, los pódcast, los videojuegos, la TV digital.
 
       .col-md-4.col-lg-4
         .nav-holder.align-items-center(data-aos="flip-up")

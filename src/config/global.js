@@ -340,17 +340,21 @@ export default {
           centro:
             'Centro para la Industria de la Comunicación Gráfica - Regional Distrito Capital',
         },
-        {
-          nombre: 'José Gabriel Ortiz Abella',
-          cargo: 'Corrector de estilo',
-          centro:
-            'Centro para la Industria de la Comunicación Gráfica - Regional Distrito Capital',
-        },
       ],
     },
     {
       titulo: 'DISEÑO Y DESARROLLO DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
+        {
+          nombre: 'Yerson Fabian Zarate',
+          cargo: 'Diseñador de Contenidos Digitales web',
+          centro: 'Centro de Servicios de Salud - Regional Antioquia',
+        },
+        {
+          nombre: 'Edgar Mauricio Cortes García',
+          cargo: 'Desarrollo Fullstack',
+          centro: 'Centro de Servicios de Salud - Regional Antioquia',
+        },
         {
           nombre: 'Jorge Armando Villamizar Moreno',
           cargo: 'Diseño web',
@@ -359,35 +363,18 @@ export default {
         },
         {
           nombre: 'Edgar Mauricio Cortes García',
-          cargo: 'Desarrollo front-end',
+          cargo: 'Actividad didáctica',
           centro: 'Centro de Servicios de Salud - Regional Antioquia',
         },
         {
-          nombre: 'Zuleidy María Ruiz Torres',
-          cargo: 'Producción audiovisual',
-          centro: 'Centro de Comercio y Servicios - Regional Tolima',
-        },
-        {
-          nombre: 'Wilson Andrés Arenales Cáceres',
-          cargo: 'Producción audiovisual',
+          nombre: 'Luis Fabian Robles Mendez',
+          cargo: 'Desarrollo Front-end',
           centro:
             'Centro Industrial del Diseño y la Manufactura - Regional Santander',
         },
         {
-          nombre: 'Gilberto Junior Rodriguez Rodriguez',
-          cargo: 'Producción audiovisual',
-          centro:
-            'Centro Industrial del Diseño y la Manufactura - Regional Santander',
-        },
-        {
-          nombre: 'María Carolina Tamayo Lopez ',
-          cargo: 'Producción audiovisual',
-          centro:
-            'Centro Industrial del Diseño y la Manufactura - Regional Santander',
-        },
-        {
-          nombre: 'Carlos Eduardo Garavito Parada',
-          cargo: 'Producción audiovisual',
+          nombre: 'Andres Mauricio Santaella Ochoa',
+          cargo: 'Soporte Front-end',
           centro:
             'Centro Industrial del Diseño y la Manufactura - Regional Santander',
         },
@@ -396,11 +383,6 @@ export default {
     {
       titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
       autores: [
-        {
-          nombre: 'Luis Gabriel Urueta Alvarez',
-          cargo: 'Validador de Recursos Educativos Digitales',
-          centro: 'Centro de Servicios de Salud - Regional Antioquia',
-        },
         {
           nombre: 'Jaime Hernán Tejada Llano',
           cargo: 'Validador de Recursos Educativos Digitales',

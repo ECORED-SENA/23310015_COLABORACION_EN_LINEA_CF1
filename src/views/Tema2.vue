@@ -19,7 +19,7 @@
           .row.m-0.align-items-center.justify-content-between
             .col-lg-8
               .bloque-texto-a__texto.p-4.shadow-box
-                p Las herramientas y recursos que se proporcionan para la comunicación y colaboración en línea aprovechan diferentes formas y entornos desde los servicios de voz, video y teleconferencias en las actividades de colaboración. Así, la capacidad de colaborar en línea mejora todos los procesos comunicacionales de los usuarios, pues esta se hace de forma rápida y sencilla, rompiendo barreras y fronteras, y logra que su efectividad e innovación sean mucho más productiva en cualquier campo de aplicación.
+                p Las herramientas y recursos que se proporcionan para la comunicación y colaboración en línea aprovechan diferentes formas y entornos desde los servicios de voz, video y teleconferencias en las actividades de colaboración. Así, la capacidad de colaborar en línea mejora todos los procesos comunicacionales de los usuarios, pues esta se hace de forma rápida y sencilla, rompiendo barreras y fronteras, y logra que su efectividad e innovación sean mucho más productivas en cualquier campo de aplicación.
             .col-lg-4.mb-4.mb-lg-0
               figure(data-aos="flip-left")
                 img.nW(src="@/assets/curso/t2-i1.svg", alt="imagen decorativa")
@@ -72,7 +72,7 @@
         figure(data-aos="flip-left")
           img(src='@/assets/curso/t2-i3.svg', alt='imagen decorativa')
       .col-lg-7
-        p.text-bold.mb-3 Y los siguientes son los aspectos a tener en cuenta en los entornos digitales:
+        p.text-bold.mb-3 Los siguientes son los aspectos a tener en cuenta en los entornos digitales:
         ul.lista-ul
           li(data-aos="flip-up")
             i.fas.fa-check
@@ -228,7 +228,7 @@
               img.nW.centered(src="@/assets/curso/t2-i6.jpg", alt="icono decorativo")
           .col-md-6.mb-4.mb-md-0
             h4 Interacción en el mundo digital
-            p.mb-3 El mundo cambia y seguirá tomando nuevos rumbos de forma sustancial y acelerada, encaminado a ser más digital, debido a que millones de personas tienen acceso ilimitado a Internet a través de los dispositivos como computadores, celulares, tabletas e incluso televisores de tipo Smart y las innumerables herramientas y aplicaciones que presentan múltiples posibilidades de estar conectados y en constante comunicación de forma permanente. 
+            p.mb-3 El mundo cambia y seguirá tomando nuevos rumbos de forma sustancial y acelerada, encaminado a ser más digital, debido a que millones de personas tienen acceso ilimitado a Internet a través de los dispositivos como computadores, celulares, tabletas e incluso televisores de tipo #[em Smart] y las innumerables herramientas y aplicaciones que presentan múltiples posibilidades de estar conectados y en constante comunicación de forma permanente. 
             p Esta posibilidad de comunicación de forma inmediata con las demás personas ha permitido obtener información al instante de todo lo que pasa en el mundo, al igual que aprender, enseñar, adquirir productos y servicios y las nuevas oportunidades en todas las esferas de la sociedad en cualquier momento y lugar.
 
           
@@ -296,7 +296,7 @@
           .row.m-0.align-items-center.justify-content-between
             .col-lg-8
               .bloque-texto-a__texto.p-4.shadow-box
-                p.mb-3  Para poder acceder a toda la información que hay en Internet, basta con dar clic o pulsar #[b touch] en los enlaces que se encuentran en las diferentes páginas electrónicas, lo que permite ingresar a un mundo de opciones, según las necesidades.
+                p.mb-3  Para poder acceder a toda la información que hay en Internet, basta con dar clic o pulsar #[em #[b touch]] en los enlaces que se encuentran en las diferentes páginas electrónicas, lo que permite ingresar a un mundo de opciones, según las necesidades.
                 p.mb-4  Para navegar en la red, se debe:
                 ol.lista-ol--cuadro
                   li 
@@ -454,7 +454,7 @@
           .row
             .col-md-6.mb-4.mb-md-0
               .h4 La <i>World Wide Web</i> (www)
-              p Es el servicio más popular, sus siglas en inglés World Wide Web, o telaraña mundial, es donde se alojan todas las páginas, sitios o portales #[b web], que por medio de una dirección electrónica o URL, pueden ser accedidos en cualquier parte del mundo; la transferencia de información se realiza mediante un protocolo llamado http (protocolo de transferencia de hipertextos).
+              p Es el servicio más popular, sus siglas en inglés #[em World Wide Web], o telaraña mundial, es donde se alojan todas las páginas, sitios o portales #[b web], que por medio de una dirección electrónica o URL, pueden ser accedidos en cualquier parte del mundo; la transferencia de información se realiza mediante un protocolo llamado http (protocolo de transferencia de hipertextos).
             .col-md-6
               figure
                 img(src='@/assets/curso/t2-n4.png', alt='imagen decorativa')                 

@@ -205,7 +205,7 @@
               img.nW(src="@/assets/curso/t3-t6.svg", alt="icono decorativo")
           .col-lg-10
             .h4 Comercio digital
-            p Aprende a enfocarte en lo que verdaderamente se necesita comprar online, si eres vendedor, es importante enfocarse en las herramientas como oportunidades, no en oportunismo.
+            p Aprende a enfocarte en lo que verdaderamente se necesita comprar #[em online], si eres vendedor, es importante enfocarse en las herramientas como oportunidades, no en oportunismo.
 
       .tarjeta.color-primario.p-4(titulo="Leyes y responsabilidad digital")
         .row
