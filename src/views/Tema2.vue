@@ -68,7 +68,7 @@
               img(src='@/assets/curso/t2-t3.svg', alt='imagen decorativa')
 
     .row.mb-5
-      .col-lg-5
+      .col-lg-5.d-none.d-md-block
         figure(data-aos="flip-left")
           img(src='@/assets/curso/t2-i3.svg', alt='imagen decorativa')
       .col-lg-7
@@ -354,7 +354,7 @@
 
     .neg-margin-x.bg-soft-green.mb-5
       .tarjeta.p-4.mb-5
-        SlyderA
+        SlyderA(tipo="b")
           .row
             .col-md-6.mb-4.mb-md-0
               p No accedas a enlaces sospechosos, esta es una práctica muy común de los ciberdelincuentes para hacerte caer en fraudes o infectarte con códigos maliciosos para robar información, pueden estar presentes en mensajes, correos electrónicos, noticias falsas, entre otros.
@@ -427,7 +427,7 @@
     p.mb-5  La red posee una gran cantidad de servicios que son aplicables de acuerdo con las funcionalidades que estos prestan para poder realizar todas las actividades digitales, entre los más utilizados están:
     .neg-margin-x.bg-soft-green.mb-5
       .tarjeta.p-4.mb-5
-        SlyderA
+        SlyderA(tipo="b")
           .row
             .col-md-6.mb-4.mb-md-0
               .h4 Correo electrónico
