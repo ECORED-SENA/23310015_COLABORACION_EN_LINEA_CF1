@@ -73,7 +73,7 @@
           img(src='@/assets/curso/t2-i3.svg', alt='imagen decorativa')
       .col-lg-7
         p.text-bold.mb-3 Los siguientes son los aspectos a tener en cuenta en los entornos digitales:
-        ul.lista-ul
+        ul.lista-ul.fa-ul.mb-0
           li(data-aos="flip-up")
             i.fas.fa-check
             p.mb-0 Interactuar a través de medios digitales y saber aplicarlos desde diferentes contextos.
@@ -249,7 +249,8 @@
           .col-md-6.mb-4.mb-md-0
             h4 Brecha digital
             p.mb-3 No se puede dejar de lado, y mucho menos ignorar que, muchas veces, la ignorancia tecnológica genera una brecha digital. A esto se le debe dar solución por medio de iniciativas que den cabida a cualquier individuo al <b>nuevo mundo digital</b>, tomando como referente lo siguiente:
-            ul.lista-ul
+          
+            ul.lista-ul.fa-ul.mb-0
               li
                 i.fas.fa-check
                 p <b>Alfabetización digital como competencia básica</b>, se debe garantizar que todas las personas logren aprender a utilizar de forma adecuada las herramientas tecnológicas que mejoran la calidad de vida.
@@ -298,7 +299,7 @@
               .bloque-texto-a__texto.p-4.shadow-box
                 p.mb-3  Para poder acceder a toda la información que hay en Internet, basta con dar clic o pulsar #[em #[b touch]] en los enlaces que se encuentran en las diferentes páginas electrónicas, lo que permite ingresar a un mundo de opciones, según las necesidades.
                 p.mb-4  Para navegar en la red, se debe:
-                ol.lista-ol--cuadro
+                ol.lista-ol--cuadro.fa-ul.mb-0
                   li 
                     .lista-ol--cuadro__vineta
                       span 1
@@ -353,7 +354,7 @@
               |  Your browser does not support the audio tag.
 
     .neg-margin-x.bg-soft-green.mb-5
-      .tarjeta.p-4.mb-5
+      .tarjeta.p-4
         SlyderA(tipo="b")
           .row
             .col-md-6.mb-4.mb-md-0
@@ -425,8 +426,8 @@
 
     h3.titulo-tercero Servicios de internet
     p.mb-5  La red posee una gran cantidad de servicios que son aplicables de acuerdo con las funcionalidades que estos prestan para poder realizar todas las actividades digitales, entre los más utilizados están:
-    .neg-margin-x.bg-soft-green.mb-5
-      .tarjeta.p-4.mb-5
+    .neg-margin-x.bg-soft-green
+      .tarjeta.p-4
         SlyderA(tipo="b")
           .row
             .col-md-6.mb-4.mb-md-0
