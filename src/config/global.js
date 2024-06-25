@@ -385,7 +385,7 @@ export default {
             'Centro Industrial del Diseño y la Manufactura - Regional Santander',
         },
         {
-          nombre: 'Animador y Productor Multimedia',
+          nombre: 'Andrés Felipe Guevara Ariza',
           cargo: 'Locución ',
           centro:
             'Centro Industrial del Diseño y la Manufactura - Regional Santander',
