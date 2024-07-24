@@ -27,11 +27,17 @@
   border-top-left-radius: 150px
   border-bottom-right-radius: 150px
   font-size: 1.5em
+  @media screen and ( max-width: $bp-max-lg )
+    border-top-left-radius: 60px
+    border-bottom-right-radius: 60px
 .flipped-corners
   border-top-left-radius: 0px
   border-bottom-right-radius: 0px
   border-top-right-radius: 150px
   border-bottom-left-radius: 150px
+  @media screen and ( max-width: $bp-max-lg )
+    border-top-right-radius: 60px
+    border-bottom-left-radius: 60px
 .text-xl
   font-weight: 600
 .text-normal
@@ -59,14 +65,14 @@
   content: ''
   border-bottom: 2px solid #FFCF19
   position: absolute
-  top: 55px
+  top: 60px
   left: 20%
   right: 20%
 .color-p2 h3:before
   content: ''
   border-bottom: 2px solid #59FFCC
   position: absolute
-  top: 55px
+  top: 60px
   left: 20%
   right: 20%
 .lista-ol--cuadro__vineta
@@ -142,6 +148,7 @@ figcaption
 .slyder-a__bullets__item
   background-color: #AFAFAF
   border: 1px solid #AFAFAF
+  margin: 0 4px
 .titulo-principal__numero
   background-color: #5000A1
 .titulo-principal__numero span

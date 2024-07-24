@@ -10,11 +10,11 @@
       h1 Introducción
     .clearfix
     .spacer
-    .corner-box.color-b1.p-4.mb-5.m-custom
+    .corner-box.color-b1.p-4.mb-5.m-custom(data-aos="fade-right")
       .row.align-items-center
         .col-lg-3
           .wrap-overflow
-            figure(data-aos="flip-left")
+            figure
               img.nW(src="@/assets/curso/i0.png", alt="personaje animado")
         .col-lg-9
           p.text-xl ¿Conoces los hitos que han marcado las formas de comunicación y las diferentes transformaciones frente al comportamiento de las personas en la utilización de herramientas digitales? 
@@ -24,11 +24,9 @@
               source(src='@/assets/curso/intro.mp3' type='audio/mpeg')
               |  Your browser does not support the audio tag.
 
-    figure.mb-5
+    figure(data-aos="fade-left")
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/DY4IJ1yLuH8?si=0dKYhtGgTdHiBlX3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-
-    //--https://www.youtube.com/embed/oHGhb7QoRik"
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/Z04kreRopcY?si=zkHfk3EwOLZEmmWW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
 </template>
 

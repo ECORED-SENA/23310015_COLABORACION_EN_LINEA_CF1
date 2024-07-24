@@ -232,7 +232,7 @@ export default {
       termino: 'Página web',
       terminoHtml: 'Página <em>web</em>',
       significado:
-        'documento electrónico escrito normalmente en un lenguaje llamado HTML, que permite la visualización de contenidos de internet, contienen enlaces y datos multimedia',
+        'documento electrónico escrito normalmente en un lenguaje llamado HTML, que permite la visualización de contenidos de internet, contienen enlaces y datos multimedia.',
     },
     {
       termino: 'Smartphone',
@@ -249,41 +249,39 @@ export default {
     },
     {
       referencia:
-        'Cabero Almenara, J. (2015). Reflexiones educativas sobre las tecnologías de la información y la comunicación (TIC). Revista Tecnología, Ciencia Y Educación, (1), 19–27.',
+        'Cabero Almenara, J. (2015). Reflexiones educativas sobre las tecnologías de la información y la comunicación (TIC). Revista Tecnología, Ciencia Y Educación, (1), 19-27.',
       link: 'https://doi.org/10.51302/tce.2015.27',
     },
     {
       referencia: 'Cisco, (2021), el cambiante entorno de la red.',
-      link:
-        'http://itroque.edu.mx/cisco/cisco1/course/module1/1.4.1.3/1.4.1.3.html',
+      link: '',
     },
     {
       referencia:
         'Flores D, (2020), La comunicación humana, San Luís Potosí: Universidad Autónoma de San Luís Potosí.',
-      link:
-        'http://www.ingenieria.uaslp.mx/Documents/Apuntes/HUMANIDADES%20B.pdf',
+      link: '',
     },
     {
       referencia:
-        'Guerrero S, Ripio R, (2018), La Ciudad Digital al Servicio del Ciudadano del Siglo XXI, Un ecosistema abierto de innovación, ',
+        'Guerrero S, Ripio R, (2018), La Ciudad Digital al Servicio del Ciudadano del Siglo XXI, Un ecosistema abierto de innovación. ',
       link:
         'https://www.minsait.com/sites/default/files/newsroom_documents/laciudaddigitalalserviciodelciudadanodelsigloxxi_0.pdf',
     },
     {
       referencia:
-        'Instituto nacional de seguridad, (2021), Privacidad y seguridad en internet.',
+        'Instituto Nacional de seguridad, (2021), Privacidad y seguridad en internet.',
       link:
         'https://www.aepd.es/sites/default/files/2019-11/guia-privacidad-y-seguridad-en-internet.pdf',
     },
     {
       referencia:
-        'Mintic, (Diciembre de 2019),Modelo de Madurez de Ciudades y Territorios Inteligentes.',
+        'Mintic, (Diciembre de 2019), Modelo de Madurez de Ciudades y Territorios Inteligentes.',
       link:
         'https://gobiernodigital.mintic.gov.co/692/articles-179102_recurso_2.pdf',
     },
     {
       referencia:
-        'Molina A, Roque, , Garcés B,, Rojas Y, Dulzaides M,, & Selín M. (2015). El proceso de comunicación mediado por las tecnologías de la información. Ventajas y desventajas en diferentes esferas de la vida social. <i>MediSur</i>, 13(4), 481-493. ',
+        'Molina A, Roque, Garcés B, Rojas Y, Dulzaides M, & Selín M. (2015). El proceso de comunicación mediado por las tecnologías de la información. Ventajas y desventajas en diferentes esferas de la vida social. <i>MediSur</i>, 13(4), 481-493. ',
       link:
         'http://scielo.sld.cu/scielo.php?script=sci_arttext&pid=S1727-897X2015000400004&lng=es&tlng=es.',
     },
@@ -332,13 +330,12 @@ export default {
         {
           nombre: 'Paula Andrea Taborda Ortiz',
           cargo: 'Diseñadora instruccional',
-          centro: 'Centro de Diseño y Metrología - Regional distrito capital',
+          centro: 'Centro de Diseño y Metrología - Regional Distrito Capital',
         },
         {
           nombre: 'Ana Catalina Córdoba Sus',
-          cargo: 'Revisora Metodológica y Pedagógica',
-          centro:
-            'Centro para la Industria de la Comunicación Gráfica - Regional Distrito Capital',
+          cargo: 'Evaluadora instruccional',
+          centro: 'Centro de Servicios de Salud - Regional Antioquia',
         },
       ],
     },
@@ -347,7 +344,7 @@ export default {
       autores: [
         {
           nombre: 'Yerson Fabian Zarate',
-          cargo: 'Diseñador de Contenidos Digitales web',
+          cargo: 'Diseñador de Contenidos Digitales',
           centro: 'Centro de Servicios de Salud - Regional Antioquia',
         },
         {
@@ -357,24 +354,24 @@ export default {
         },
         {
           nombre: 'Jorge Armando Villamizar Moreno',
-          cargo: 'Diseño web',
+          cargo: 'Diseño Web',
           centro:
             'Centro Industrial del Diseño y la Manufactura - Regional Santander',
         },
         {
           nombre: 'Edgar Mauricio Cortes García',
-          cargo: 'Actividad didáctica',
+          cargo: 'Actividad Didáctica',
           centro: 'Centro de Servicios de Salud - Regional Antioquia',
         },
         {
           nombre: 'Luis Fabian Robles Mendez',
-          cargo: 'Desarrollo Front-end',
+          cargo: 'Desarrollo Frontend',
           centro:
             'Centro Industrial del Diseño y la Manufactura - Regional Santander',
         },
         {
           nombre: 'Andres Mauricio Santaella Ochoa',
-          cargo: 'Soporte Front-end',
+          cargo: 'Soporte Frontend',
           centro:
             'Centro Industrial del Diseño y la Manufactura - Regional Santander',
         },
