@@ -25,23 +25,23 @@
     .row.mb-5.justify-content-center
       .col-10.col-md-5.col-lg-2.m-2
         figure(data-aos="flip-left")
-          img.nW(src="@/assets/curso/t1-n1.svg", alt="personaje animado").m-auto
+          img.nW(src="@/assets/curso/t1-n1.svg", alt="Formas en que se representan los diferentes tipos de datos.").m-auto
 
       .col-10.col-md-5.col-lg-2.m-2
         figure(data-aos="flip-left")
-          img.nW(src="@/assets/curso/t1-n2.svg", alt="personaje animado").m-auto
+          img.nW(src="@/assets/curso/t1-n2.svg", alt="Formas en que se representan los diferentes tipos de datos.").m-auto
 
       .col-10.col-md-5.col-lg-2.m-2
         figure(data-aos="flip-left")
-          img.nW(src="@/assets/curso/t1-n3.svg", alt="personaje animado").m-auto
+          img.nW(src="@/assets/curso/t1-n3.svg", alt="Formas en que se representan los diferentes tipos de datos.").m-auto
 
       .col-10.col-md-5.col-lg-2.m-2
         figure(data-aos="flip-left")
-          img.nW(src="@/assets/curso/t1-n4.svg", alt="personaje animado").m-auto
+          img.nW(src="@/assets/curso/t1-n4.svg", alt="Formas en que se representan los diferentes tipos de datos.").m-auto
 
       .col-10.col-md-5.col-lg-2.m-2
         figure(data-aos="flip-left")
-          img.nW(src="@/assets/curso/t1-n5.svg", alt="personaje animado").m-auto
+          img.nW(src="@/assets/curso/t1-n5.svg", alt="Formas en que se representan los diferentes tipos de datos.").m-auto
 
     p.mb-5  Y se presentan en los diferentes dispositivos, como:
 
@@ -49,15 +49,15 @@
     .row.mb-5.justify-content-center
       .col-10.col-md-5.col-lg-2.m-2
         figure(data-aos="flip-up")
-          img.nW(src="@/assets/curso/t1-n6.svg", alt="personaje animado").m-auto
+          img.nW(src="@/assets/curso/t1-n6.svg", alt="Formas en que se representan los diferentes tipos de dispositivos.").m-auto
 
       .col-10.col-md-5.col-lg-2.m-2
         figure(data-aos="flip-up")
-          img.nW(src="@/assets/curso/t1-n7.svg", alt="personaje animado").m-auto
+          img.nW(src="@/assets/curso/t1-n7.svg", alt="Formas en que se representan los diferentes tipos de dispositivos.").m-auto
 
       .col-10.col-md-5.col-lg-2.m-2
         figure(data-aos="flip-up")
-          img.nW(src="@/assets/curso/t1-n8.svg", alt="personaje animado").m-auto
+          img.nW(src="@/assets/curso/t1-n8.svg", alt="Formas en que se representan los diferentes tipos de dispositivos.").m-auto
     
     p.mb-5(data-aos="slide-left")  En los móviles se encuentran los #[em smartphones], que hacen parte de la cotidianidad de la mayoría de personas, de forma inmersiva e interactiva.
     .row.justify-content-center
@@ -195,9 +195,9 @@
       .col-md-8.col-lg-4
         .nav-holder.align-items-center(data-aos="flip-up")
           img(src="@/assets/curso/t1-p2.svg", alt="Imagen decorativa")
-          .text.p-3
+          .text.p-2
             .row.px-lg-3.mb-lg-2
-              p.h3 En red e informáticas
+              p.h3.mb-0 En red e informáticas
               p.small A través de la incursión de dispositivos electrónicos y digitales se incrementa la interactividad, ofreciendo gran cantidad de servicios, que buscan la colaboración e intercambio de información entre los usuarios. Los medios digitales son inmersivos y muy rápidos, por ello se han desarrollado diferentes opciones como la inteligencia artificial, las redes neuronales, la realidad virtual y aumentada.
       .col-md-8.col-lg-4
         .nav-holder.align-items-center(data-aos="flip-up")

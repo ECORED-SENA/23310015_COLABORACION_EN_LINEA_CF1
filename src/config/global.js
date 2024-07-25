@@ -47,7 +47,7 @@ export default {
           {
             numero: '1.2',
             titulo:
-              'Ventajas y desventajas en el proceso comunicacional en línea',
+              'Ventajas y desventajas del proceso comunicacional en línea',
             hash: 't_1_2',
           },
         ],

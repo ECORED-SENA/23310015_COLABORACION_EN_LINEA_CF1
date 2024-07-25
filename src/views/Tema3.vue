@@ -231,28 +231,91 @@
           .col-md-10.mb-4.mb-md-0
             h4 Herramientas gubernamentales
             p.mb-4 Las estrategias de un Gobierno Digital o e-Gobierno radican en mejorar las comunicaciones Estado - población - instituciones, haciendo uso de las nuevas tecnologías de información y comunicación y sacarles el mejor provecho en la generación de democracia, para agilizar trámites o promover la transparencia. Entre las herramientas del Gobierno Digital, se encuentran:
-            .row.justify-content-center
-              .col-lg-12
-                figure
-                  img(src='@/assets/curso/t3-info1.svg', alt='imagen decorativa')
+            .row
+              .col-md-6
+                ul.lista-ul.fa-ul.mb-0
+                  li
+                    i.fas.fa-check
+                    p Servicios ciudadanos
+                  li
+                    i.fas.fa-check
+                    p CSIRT gobierno y seguridad
+                  li
+                    i.fas.fa-check
+                    p Ciudades y territorios inteligentes
+                  li
+                    i.fas.fa-check
+                    p Portales y ministerios
+              .col-md-6
+                ul.lista-ul.fa-ul.mb-0
+                  li
+                    i.fas.fa-check
+                    p Centros de innovación pública digital
+                  li
+                    i.fas.fa-check
+                    p Gobiernos departamentales y municipales #[i online]
+                  li
+                    i.fas.fa-check
+                    p Datos abiertos
       .py-3.py-md-4(titulo="Herramientas personales")
         .row.justify-content-center
           .col-md-10.mb-4.mb-md-0
             h4 Herramientas personales
             p.mb-4 Dentro de las herramientas digitales de uso personal, el campo de acción es bastante amplio, porque buscan ayudar a compartir información y pueda llegar a todo tipo de personas, entre las más comunes están:
-            .row.justify-content-center
-              .col-lg-12
-                figure.slideInLeft
-                  img(src='@/assets/curso/t3-info2.svg', alt='imagen decorativa')
+            .row
+              .col-md-6
+                ul.lista-ul.fa-ul.mb-0
+                  li
+                    i.fas.fa-check
+                    p Redes sociales
+                  li
+                    i.fas.fa-check
+                    p Correo electrónico
+                  li
+                    i.fas.fa-check
+                    p Foros
+                  li
+                    i.fas.fa-check
+                    p Consumo de servicios y apps
+              .col-md-6
+                ul.lista-ul.fa-ul.mb-0
+                  li
+                    i.fas.fa-check
+                    p Wikis
+                  li
+                    i.fas.fa-check
+                    p Herramientas ofimáticas
+                  li
+                    i.fas.fa-check
+                    p Mensajería
       .py-3.py-md-4(titulo="Herramientas empresariales")
         .row.justify-content-center
           .col-md-10.mb-4.mb-md-0
             h4 Herramientas empresariales
             p.mb-4 La empresa no es ajena a los grandes avances tecnológicos, hoy en día existen gran cantidad de herramientas que ayudan a posicionar en el mercado las empresas y mejorar su productividad, entre los cuales se pueden mencionar:
-            .row.justify-content-center
-              .col-lg-12
-                figure.slideInLeft
-                  img(src='@/assets/curso/t3-info3.svg', alt='imagen decorativa')
+            .row
+              .col-md-6
+                ul.lista-ul.fa-ul.mb-0
+                  li
+                    i.fas.fa-check
+                    p #[i Marketing] digital
+                  li
+                    i.fas.fa-check
+                    p Comercio electrónico
+                  li
+                    i.fas.fa-check
+                    p Almacenamiento en la nube
+              .col-md-6
+                ul.lista-ul.fa-ul.mb-0
+                  li
+                    i.fas.fa-check
+                    p Pasarelas de pago
+                  li
+                    i.fas.fa-check
+                    p Gestión de proyectos y trabajo colaborativo
+                  li
+                    i.fas.fa-check
+                    p Gestión bancaria #[i online]
     .corner-box.color-b1.p-4.m-custom
       .row.align-items-center
         .col-lg-3
